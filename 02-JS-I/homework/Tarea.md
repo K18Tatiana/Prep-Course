@@ -1,3 +1,5 @@
+Explicación de conceptos
+
 * Variables
     Las variables son asignaciones que se da a algún valor que se almacena en un código para poder usarlas en cualquier momento; en otras palabras, una variable es un valor almacenado en el código que puede ser usado en cualquier parte de este. Estas variables pueden ser tipo number (número), string (cadena de texto) o boolean (verdadero o falso).
         Ejemplo:
